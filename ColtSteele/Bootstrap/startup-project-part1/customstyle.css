@@ -1,0 +1,19 @@
+/* user custom style sheet*/
+.btn-default{
+/*	background: #c8cbd1;
+	color: */
+}
+
+body{
+	background-image: url(https://source.unsplash.com/xulIYVIbYIc);
+	background-repeat: no-repeat, repeat;
+	background-size:cover;
+	background-position: center;
+	color:white;	
+	font-family: Lato;
+}
+
+#content{
+	text-align: center;
+	padding-top:25%;
+}
